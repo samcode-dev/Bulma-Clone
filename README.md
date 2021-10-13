@@ -5,7 +5,7 @@ A small web app which created using Bulma CSS Framework.
 ## Bulma Website Demo Link
 
 You can watch the site here
-[Click Me](https://bulma-website.web.app/)
+[Click Me](https://bulma-clone-by-babadiya.web.app/)
 
 ## Topics
 
@@ -16,4 +16,4 @@ You can watch the site here
 
 ## Author
 
-Özge Coşkun Gürsucu (codermother)
+Babadiya Samuel
